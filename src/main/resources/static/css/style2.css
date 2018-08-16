@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+	background-color: #F5DEB3;
+}
+p {
+	color: green;
+	font-size: 20px;
+	font-family: Georgia;
+}
+input[type=text] {
+	font-size: 15px;
+	width: 10%;
+	padding: 1px 1px;
+	font-family: Georgia;
+}
+input[type=submit] {
+	color:black;
+	width: 10%;
+	padding: 1px 1px;
+	background-color: green;
+	font-size: 25px;
+}
+h1 {
+	color:green;
+	font-family: Georgia;
+}
+h3 { font-family: Georgia;
+}
+input[type=checkbox] {
+	width: 10%;
+}
+input[type=password] {
+	font-size: 25px;
+	width: 10%;
+	
+}
