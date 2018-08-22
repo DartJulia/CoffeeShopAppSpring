@@ -1,5 +1,10 @@
 @charset "UTF-8";
+
 body {
+	color: green;
+}
+
+/* body {
 	background-color: #F5DEB3;
 }
 p {
@@ -33,4 +38,27 @@ input[type=password] {
 	font-size: 25px;
 	width: 10%;
 	
+} 
+*/
+
+<!--   <style>
+body {
+	background-color: #F5DEB3;
+	
+	
 }
+img { 
+opacity: 0.3;
+}
+
+h1 {
+	color: green;
+	font-family: Georgia;
+}
+p {
+	color: green;
+	font-size: 20px;
+	font-family: Georgia;
+}
+
+</style> -->

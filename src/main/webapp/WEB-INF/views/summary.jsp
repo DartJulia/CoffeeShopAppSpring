@@ -5,6 +5,8 @@
 <head>
 <style>
 body {
+	
+	text-align: center;
 	background-color: #F5DEB3;
 }
 
